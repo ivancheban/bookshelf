@@ -4,7 +4,7 @@
 
 ### The Eye of the World
 
-![Eye of the World](img/eye-of-the-world.jpg)
+![Eye of the World](img/eye-of-the-world.jpg){: style="height:430px;"}
 
 **Title:** The Eye of the World
 
@@ -12,7 +12,7 @@
 
 ### The Great Hunt
 
-![Great Hunt](img/great-hunt.jpg)
+![Great Hunt](img/great-hunt.jpg){: style="height:430px;"}
 
 **Title:** The Great Hunt
 
@@ -20,7 +20,7 @@
 
 ### The Dragon Reborn
 
-![The Dragon Reborn](img/dragon-reborn.jpg)
+![The Dragon Reborn](img/dragon-reborn.jpg){: style="height:430px;"}
 
 **Title:** The Dragon Reborn
 
@@ -28,7 +28,7 @@
 
 ### The Shadow Rising
 
-![The Shadow Rising](img/shadow-rising.jpg)
+![The Shadow Rising](img/shadow-rising.jpg){: style="height:430px;"}
 
 **Title:** The Shadow Rising
 
@@ -36,7 +36,7 @@
 
 ### The Fires of Heaven
 
-![Fires of Heaven](img/fires-of-heaven.jpg)
+![Fires of Heaven](img/fires-of-heaven.jpg){: style="height:430px;"}
 
 **Title:** The Fires of Heaven
 
@@ -44,7 +44,7 @@
 
 ### Lord of Chaos
 
-![Lord of Chaos](img/lord-of-chaos.jpg)
+![Lord of Chaos](img/lord-of-chaos.jpg){: style="height:430px;"}
 
 **Title:** Lord of Chaos
 
@@ -52,7 +52,7 @@
 
 ### A Crown of Swords
 
-![A Crown of Swords](img/crown-of-swords.jpg)
+![A Crown of Swords](img/crown-of-swords.jpg){: style="height:430px;"}
 
 **Title:** A Crown of Swords
 
@@ -60,7 +60,7 @@
 
 ### The Path of Daggers
 
-![The Path of Daggers](img/pathpof-daggers.jpg)
+![The Path of Daggers](img/pathpof-daggers.jpg){: style="height:430px;"}
 
 **Title:** The Path of Daggers
 
@@ -68,7 +68,7 @@
 
 ### Winter's Heart
 
-![Winter's Heart](img/winters-heart.jpg)
+![Winter's Heart](img/winters-heart.jpg){: style="height:430px;"}
 
 **Title:** Winter's Heart
 
@@ -76,7 +76,7 @@
 
 ### Crossroads of Twilight
 
-![Crossroads of Twilight](img/crossroads-of-twilight.webp)
+![Crossroads of Twilight](img/crossroads-of-twilight.webp){: style="height:430px;"}
 
 **Title:** Crossroads of Twilight
 
@@ -84,7 +84,7 @@
 
 ### Knife of Dreams
 
-![Knife of Dreams](img/knife-of-dreams.jpg)
+![Knife of Dreams](img/knife-of-dreams.jpg){: style="height:430px;"}
 
 **Title:** Knife of Dreams
 
@@ -92,7 +92,7 @@
 
 ### The Gathering Storm
 
-![The Gathering Storm](img/gathering-storm.jpg)
+![The Gathering Storm](img/gathering-storm.jpg){: style="height:430px;"}
 
 **Title:** The Gathering Storm
 
@@ -100,7 +100,7 @@
 
 ### Towers of Midnight
 
-![Towers of Midnight](img/towers-of-midnight.jpg)
+![Towers of Midnight](img/towers-of-midnight.jpg){: style="height:430px;"}
 
 **Title:** Towers of Midnight
 
@@ -108,7 +108,7 @@
 
 ### A Memory of Light
 
-![A Memory of Light](img/memory-of-light.jpg)
+![A Memory of Light](img/memory-of-light.jpg){: style="height:430px;"}
 
 **Title:** A Memory of Light
 
@@ -116,7 +116,7 @@
 
 ## Pride and Prejudice
 
-![Pride and Prejudice](img/pride-and-prejudics.jpg)
+![Pride and Prejudice](img/pride-and-prejudics.jpg){: style="height:430px;"}
 
 **Title:** Pride and Prejudice
 
