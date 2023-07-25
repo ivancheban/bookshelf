@@ -4,7 +4,7 @@
 
 The Wheel of Time series by Robert Jordan includes 14 books.
 
-### The Eye of the World
+### The Eye of the World (1990)
 
 ![Eye of the World](img/eye-of-the-world.jpg){: style="height:430px;"}
 
@@ -12,7 +12,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Great Hunt
+### The Great Hunt (1990)
 
 ![Great Hunt](img/great-hunt.jpg){: style="height:430px;"}
 
@@ -20,7 +20,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Dragon Reborn
+### The Dragon Reborn (1991)
 
 ![The Dragon Reborn](img/dragon-reborn.jpg){: style="height:430px;"}
 
@@ -28,7 +28,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Shadow Rising
+### The Shadow Rising (1992)
 
 ![The Shadow Rising](img/shadow-rising.jpg){: style="height:430px;"}
 
@@ -36,7 +36,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Fires of Heaven
+### The Fires of Heaven (1993)
 
 ![Fires of Heaven](img/fires-of-heaven.jpg){: style="height:430px;"}
 
@@ -44,7 +44,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### Lord of Chaos
+### Lord of Chaos (1994)
 
 ![Lord of Chaos](img/lord-of-chaos.jpg){: style="height:430px;"}
 
@@ -52,7 +52,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### A Crown of Swords
+### A Crown of Swords (1996)
 
 ![A Crown of Swords](img/crown-of-swords.jpg){: style="height:430px;"}
 
@@ -60,7 +60,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Path of Daggers
+### The Path of Daggers (1998)
 
 ![The Path of Daggers](img/pathpof-daggers.jpg){: style="height:430px;"}
 
@@ -68,7 +68,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### Winter's Heart
+### Winter's Heart (2000)
 
 ![Winter's Heart](img/winters-heart.jpg){: style="height:430px;"}
 
@@ -76,7 +76,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### Crossroads of Twilight
+### Crossroads of Twilight (2003)
 
 ![Crossroads of Twilight](img/crossroads-of-twilight.webp){: style="height:430px;"}
 
@@ -84,7 +84,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### Knife of Dreams
+### Knife of Dreams (2005)
 
 ![Knife of Dreams](img/knife-of-dreams.jpg){: style="height:430px;"}
 
@@ -92,7 +92,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan
 
-### The Gathering Storm
+### The Gathering Storm (2009)
 
 ![The Gathering Storm](img/gathering-storm.jpg){: style="height:430px;"}
 
@@ -100,7 +100,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan and Brandon Sanderson
 
-### Towers of Midnight
+### Towers of Midnight (2010)
 
 ![Towers of Midnight](img/towers-of-midnight.jpg){: style="height:430px;"}
 
@@ -108,7 +108,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan and Brandon Sanderson
 
-### A Memory of Light
+### A Memory of Light (2013)
 
 ![A Memory of Light](img/memory-of-light.jpg){: style="height:430px;"}
 
@@ -116,7 +116,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 **Author:** Robert Jordan and Brandon Sanderson
 
-## Pride and Prejudice
+## Pride and Prejudice (1813)
 
 ![Pride and Prejudice](img/pride-and-prejudics.jpg){: style="height:430px;"}
 
@@ -128,7 +128,7 @@ The Wheel of Time series by Robert Jordan includes 14 books.
 
 A Song of Ice and Fire series by George R. R. Martin includes five books.
 
-### A Game of Thrones
+### A Game of Thrones (1996)
 
 ![A Game of Thrones](img/game-of-thrones.webp){: style="height:430px;"}
 
@@ -136,7 +136,7 @@ A Song of Ice and Fire series by George R. R. Martin includes five books.
 
 **Author:** George R. R. Martin
 
-### A Clash of Kings
+### A Clash of Kings (1998)
 
 ![A Clash of Kings](img/clash-of-kings.jpg){: style="height:430px;"}
 
@@ -144,7 +144,7 @@ A Song of Ice and Fire series by George R. R. Martin includes five books.
 
 **Author:** George R. R. Martin
 
-### A Storm of Swords
+### A Storm of Swords (2000)
 
 ![A Clash of Kings](img/storm-of-swords.webp){: style="height:430px;"}
 
@@ -152,7 +152,7 @@ A Song of Ice and Fire series by George R. R. Martin includes five books.
 
 **Author:** George R. R. Martin
 
-### A Feast for Crows
+### A Feast for Crows (2005)
 
 ![A Feast for Crows](img/feast-for-crows.webp){: style="height:430px;"}
 
@@ -160,7 +160,7 @@ A Song of Ice and Fire series by George R. R. Martin includes five books.
 
 **Author:** George R. R. Martin
 
-### A Dance with Dragons
+### A Dance with Dragons (2011)
 
 ![A Dance with Dragons](img/dance-with-dragons.jpg){: style="height:430px;"}
 
@@ -172,7 +172,7 @@ A Song of Ice and Fire series by George R. R. Martin includes five books.
 
 The Kingkiller Chronicle series by Patrick Rothfuss includes two books.
 
-### The Name of the Wind
+### The Name of the Wind (2007)
 
 ![The Name of the Wind](img/name-of-the-wind.jpg){: style="height:430px;"}
 
@@ -180,7 +180,7 @@ The Kingkiller Chronicle series by Patrick Rothfuss includes two books.
 
 **Author:** Patrick Rothfuss
 
-### The Wise Man's Fear
+### The Wise Man's Fear (2011)
 
 ![The Wise Man's Fear](img/wise-mans-fear.jpg){: style="height:430px;"}
 
@@ -192,7 +192,7 @@ The Kingkiller Chronicle series by Patrick Rothfuss includes two books.
 
 Memory, Sorrow, and Thorn by American writer Tad Williams includes The Dragonbone Chair (1988), Stone of Farewell (1990), and To Green Angel Tower (1993).
 
-### The Dragonbone Chair
+### The Dragonbone Chair (1988)
 
 ![The Dragonbone Chair](img/dragonbone-chair.jpg){: style="height:430px;"}
 
@@ -200,7 +200,7 @@ Memory, Sorrow, and Thorn by American writer Tad Williams includes The Dragonbon
 
 **Author:** Tad Williams
 
-### Stone of Farewell
+### Stone of Farewell (1990)
 
 ![Stone of Farewell](img/stone-of-farewell.jpg){: style="height:430px;"}
 
@@ -208,7 +208,7 @@ Memory, Sorrow, and Thorn by American writer Tad Williams includes The Dragonbon
 
 **Author:** Tad Williams
 
-### To Green Angel Tower
+### To Green Angel Tower (1993)
 
 ![To Green Angel Tower](img/to-green-angel-tower.jpg){: style="height:430px;"}
 
