@@ -22,7 +22,6 @@ theme:
   favicon: img/favicon.ico
   palette: 
     scheme: default
-    accent: blue
   
 extra_css:
   - stylesheets/extra.css
