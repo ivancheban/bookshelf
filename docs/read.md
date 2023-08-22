@@ -215,3 +215,23 @@ Memory, Sorrow, and Thorn by American writer Tad Williams includes The Dragonbon
 **Title:** To Green Angel Tower
 
 **Author:** Tad Williams
+
+## Hyperion Cantos
+
+The Hyperion Cantos is a series of science fiction novels by Dan Simmons. The title was originally used for the collection of the first pair of books in the series, Hyperion and The Fall of Hyperion, and later came to refer to the overall storyline, including Endymion, The Rise of Endymion, and a number of short stories.
+
+### Hyperion (1989)
+
+![The Fall of Hyperion](img/hyperion.jpg){: style="height:430px;"}
+
+**Title:** The Fall of Hyperion
+
+**Author:** Dan Simmons
+
+### The Fall of Hyperion (1990)
+
+![The Fall of Hyperion](img/fall-of-hyperion.jpg){: style="height:430px;"}
+
+**Title:** The Fall of Hyperion
+
+**Author:** Dan Simmons

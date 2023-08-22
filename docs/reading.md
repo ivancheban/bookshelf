@@ -1,9 +1,17 @@
 # Books I am reading
 
-## The Fall of Hyperion (1990)
+## Captain Blood (1922)
 
-![The Fall of Hyperion](img/fall-of-hyperion.jpg){: style="height:430px;"}
+![Captain Blood](img/captain-blood-his-odyssey.jpg){: style="height:430px;"}
 
-**Title:** The Fall of Hyperion
+**Title:** Captain Blood: His Odyssey
 
-**Author:** Dan Simmons
+**Author:** Rafael Sabatini
+
+## Віннету I: Роман (1892)
+
+![Віннету I](img/winnetou-1.jpg){: style="height:430px;"}
+
+**Title:** Віннету I: Роман
+
+**Author:** Карл Фрідріх Май
